@@ -1,0 +1,27 @@
+body {
+    background-image: url("img/bg.jpg");
+    background-repeat: repeat;
+    text-align: center;
+}
+
+#naboo {
+    height: 500px;
+    display: block;
+    margin: 0 auto;
+    margin-bottom: 100px;
+}
+.spaceship {
+    text-align: center;
+    margin-left: 5%;
+    margin-bottom: 2%;
+    max-height: 350px;
+    display: inline-block;
+}
+h2 {
+    display: inline-block;
+    background-image: url("img/spaceship.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 350px;
+    width: 195.7px;
+}
