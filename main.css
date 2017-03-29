@@ -26,6 +26,7 @@ body {
     margin-top: -10px;
     font-size: 4em;
     color: #FAFAFA;
+    cursor: pointer;
 }
 .spaceship {
     color: #FAFAFA;

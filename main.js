@@ -34,6 +34,7 @@ window.onload = function() {
 	naboo.on('click', function() {
 		alert("Game started!");
 		setNabooText();
+		naboo.off('click');
 	});
 
 	function setNabooText() {
