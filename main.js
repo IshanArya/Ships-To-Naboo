@@ -26,6 +26,7 @@ window.onload = function() {
 					}
 				} else {
 					alert("YOU LOSE! GAME OVER :(");
+					location.reload();
 				}
 			}
 		}
